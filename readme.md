@@ -30,3 +30,6 @@ Documentation on the Microchip LAN8720A: https://www.microchip.com/en-us/product
 
 ![pmod in use](pics/eth-pmod-in-use.jpg)
 
+## PMOD Connector Layout
+
+![pmod connector](pics/pmod-connector.png)
